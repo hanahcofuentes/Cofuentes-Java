@@ -1,4 +1,3 @@
-
 public class ShoppingCalculator {
     public static void main(String[] args) {
 
