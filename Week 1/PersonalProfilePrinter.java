@@ -2,7 +2,7 @@
 public class MyClass {
     public static void main(String[] args) {
       
-        String name = "Hanah";
+        String name = "Hanah Jemimah I. Cofuentes";
         int age = 19;
         double height = 1.55;
         char firstInitial = 'H';
